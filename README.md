@@ -1,4 +1,4 @@
-# 🇮🇳 India Startup Funding Analysis (2015–2026)
+# India Startup Funding Analysis (2015–2026)
 
 ## 📌 Project Overview
 
